@@ -1,0 +1,90 @@
+{
+    "navbar": {
+        "home": "Inicio",
+        "about": "Sobre mí",
+        "skills": "Conocimientos",
+        "qualification": "Cualificación",
+        "portfolio": "Portfolio",
+        "contactme": "Contáctame"
+    },
+    "home": {
+        "greeting": "Hola, soy Dani",
+        "roll": "Desarrollador Frontend",
+        "description": "Experiencia en diseño web y conocimientos de desarrollo, produciendo un trabajo de calidad.",
+        "button": "Contáctame <i class='uil uil-message button__icon'></i>",
+        "scroll": "Desplácese hacia abajo"
+    },
+    "about": {
+        "title": "Sobre mí",
+        "subtitle": "Mi introducción",
+        "description": "Desarrollador web, con amplio conocimiento y años de experiencia, trabajando en tecnologías web y diseño Ui/Ux, entregando un trabajo de calidad.",
+        "first-info": "Años de <br> experiencia",
+        "second-info": "Proyectos <br> completos",
+        "last-info": "Empresas",
+        "button": "Descargar CV <i class='uil uil-download-alt button__icon'></i>"
+    },
+    "skills": {
+        "title": "Conocimientos",
+        "subtitle": "Mi nivel técnico",
+        "front": "Desarrollador frontend",
+        "front-subtitle": "Más de un año",
+        "back": "Desarrollador backend",
+        "back-subtitle": "Más de un año",
+        "designer": "Diseñador",
+        "designer-subtitle": "Más de un año",
+        "advance": "Avanzado",
+        "intermediate": "Intermedio",
+        "basic": "Básico"
+    },
+    "qualification": {
+        "title": "Cualificación",
+        "subtitle": "Mi viaje personal",
+        "education": "Educación",
+        "work": "Trabajo",
+        "first-info": "Desarrollo de aplicaciones web",
+        "first-location": "España - Instituto",
+        "second-info": "Desarrollador web",
+        "second-location": "Metrica Consulting - España",
+        "third-info": "Photoshop CC",
+        "third-location": "España - Instituto",
+        "fourth-info": "Python",
+        "fourth-location": "España - Instituto",
+        "fifth-info": "WordPress",
+        "fifth-location": "España - Instituto"
+    },
+    "portfolio": {
+        "title": "Portfolio",
+        "subtitle": "Trabajos mas recientes",
+        "first-item": "Todo",
+        "second-item": "Frontend",
+        "third-item": "Backend",
+        "fourth-item": "Diseño",
+        "first-work": "Clon de Spotify",
+        "second-work": "Clon de Spotify",
+        "third-work": "Clon de Spotify",
+        "fourth-work": "Clon de Spotify",
+        "fifth-work": "Clon de Spotify",
+        "demo": "Demo <i class='uil uil-arrow-right work__icon'></i>",
+        "code": "Código <i class='uil uil-arrow-right work__icon'></i>"
+    },
+    "contact": {
+        "title": "Contáctame",
+        "subtitle": "Ponerse en contacto",
+        "call": "Llámame",
+        "email": "Correo electrónico",
+        "location": "Ubicación",
+        "location-info": "Alcobendas - Madrid (España)",
+        "first-label": "Nombre",
+        "second-label": "Correo electrónico",
+        "third-label": "Asunto",
+        "fourth-label": "Mensaje",
+        "button": "Enviar"
+    },
+    "footer": {
+        "subtitle": "Desarrollador frontend",
+        "first-link": "Conocimientos",
+        "second-link": "Portfolio",
+        "third-link": "Contáctame",
+        "copy": "&#169; Daniel García. Todos los derechos reservados."
+    }
+}

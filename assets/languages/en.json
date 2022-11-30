@@ -1,0 +1,90 @@
+{
+    "navbar": {
+        "home": "Home",
+        "about": "About",
+        "skills": "Skills",
+        "qualification": "Qualification",
+        "portfolio": "Portfolio",
+        "contactme": "Contact Me"
+    },
+    "home": {
+        "greeting": "Hi, I'am Dani",
+        "roll": "Frontend developer",
+        "description": "Experience in web design and development knowledge, producing quality work.",
+        "button": "Contact Me <i class='uil uil-message button__icon'></i>",
+        "scroll": "Scroll down"
+    },
+    "about": {
+        "title": "About Me",
+        "subtitle": "My introduction",
+        "description": "Web developer, with extensive knowledge and years of experience, working in web technologies and Ui / Ux design, delivering quality work.",
+        "first-info": "Years experience",
+        "second-info": "Completed project",
+        "last-info": "Companies worked",
+        "button": "Download CV <i class='uil uil-download-alt button__icon'></i>"
+    },
+    "skills": {
+        "title": "Skills",
+        "subtitle": "My technical level",
+        "front": "Frontend developer",
+        "front-subtitle": "More than one year",
+        "back": "Backend developer",
+        "back-subtitle": "More than one year",
+        "designer": "Designer",
+        "designer-subtitle": "More than one year",
+        "advance": "Advance",
+        "intermediate": "Intermediate",
+        "basic": "Basic"
+    },
+    "qualification": {
+        "title": "Qualification",
+        "subtitle": "My personal journey",
+        "education": "Education",
+        "work": "Work",
+        "first-info": "Web applications development",
+        "first-location": "Spain - Institute",
+        "second-info": "Web Development",
+        "second-location": "Metrica Consulting - Spain",
+        "third-info": "Photoshop CC",
+        "third-location": "Spain - Institute",
+        "fourth-info": "Python",
+        "fourth-location": "Spain - Institute",
+        "fifth-info": "WordPress",
+        "fifth-location": "Spain - Institute"
+    },
+    "portfolio": {
+        "title": "Portfolio",
+        "subtitle": "Most recent work",
+        "first-item": "All",
+        "second-item": "Frontend",
+        "third-item": "Backend",
+        "fourth-item": "Design",
+        "first-work": "Spotify clone",
+        "second-work": "Spotify clone",
+        "third-work": "Spotify clone",
+        "fourth-work": "Spotify clone",
+        "fifth-work": "Spotify clone",
+        "demo": "Demo <i class='uil uil-arrow-right work__icon'></i>",
+        "code": "Code <i class='uil uil-arrow-right work__icon'></i>"
+    },
+    "contact": {
+        "title": "Contact Me",
+        "subtitle": "Get in touch",
+        "call": "Call Me",
+        "email": "Email",
+        "location": "Location",
+        "location-info": "Alcobendas - Madrid (Spain)",
+        "first-label": "Name",
+        "second-label": "Email",
+        "third-label": "Subject",
+        "fourth-label": "Message",
+        "button": "Send"
+    },
+    "footer": {
+        "subtitle": "Frontend developer",
+        "first-link": "Skills",
+        "second-link": "Portfolio",
+        "third-link": "Contact",
+        "copy": "&#169; Daniel García. All right reserved."
+    }
+}
