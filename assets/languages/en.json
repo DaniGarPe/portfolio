@@ -65,7 +65,8 @@
         "fourth-work": "Spotify clone",
         "fifth-work": "Spotify clone",
         "demo": "Demo <i class='uil uil-arrow-right work__icon'></i>",
-        "code": "Code <i class='uil uil-arrow-right work__icon'></i>"
+        "code": "Code <i class='uil uil-arrow-right work__icon'></i>",
+        "more": "To see more works visit my "
     },
     "contact": {
         "title": "Contact Me",

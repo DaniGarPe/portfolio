@@ -65,7 +65,8 @@
         "fourth-work": "Clon de Spotify",
         "fifth-work": "Clon de Spotify",
         "demo": "Demo <i class='uil uil-arrow-right work__icon'></i>",
-        "code": "Código <i class='uil uil-arrow-right work__icon'></i>"
+        "code": "Código <i class='uil uil-arrow-right work__icon'></i>",
+        "more": "Para ver más trabajos visita mi "
     },
     "contact": {
         "title": "Contáctame",
