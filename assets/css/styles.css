@@ -926,6 +926,22 @@ img {
     color: var(--text-color);
 }
 
+.work__more {
+    display: flex;
+    justify-content: center;
+    padding: 1.5rem;
+}
+
+.work__more div{
+    display: inline-flex;
+}
+
+.work__more div a{
+    margin-left: 3px;
+    margin-right: 3px;
+    color: var(--first-color);
+}
+
 /* Active item work*/
 
 .active-work {
