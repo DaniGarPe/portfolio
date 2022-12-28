@@ -475,10 +475,6 @@ img {
     transform: transl ateY(.25rem);
 }
 
-.home__scroll-mouse {
-    font-size: 2rem;
-}
-
 .home__scroll-name {
     font-size: var(--small-font-size);
     color: var(--title-color);
@@ -490,6 +486,34 @@ img {
     font-size: 1.25rem;
 }
 
+.home__mouse {
+    width: 15px;
+    height: 25px;
+    border: 2px solid var(--title-color);
+    border-radius: 20px;
+    display: inline-flex;
+    margin-right: 10px;
+}
+.home__mouse-wheel {
+    display: inline-block;
+    width: 5px;
+    height: 5px;
+    background-color: var(--first-color);
+    border-radius: 50%;
+    margin: auto;
+    animation: moveWheel 1.25s linear infinite;
+}
+@keyframes moveWheel {
+    0% {
+        opacity: 0;
+        translate: 0 6px;
+    }
+
+    100% {
+        opacity: 1;
+        translate: 0 -6px;
+    }
+}
 
 /*==================== BUTTONS ====================*/
 
@@ -919,6 +943,7 @@ img {
     -moz-border-radius: 20px;
     -ms-border-radius: 20px;
     -o-border-radius: 20px;
+    cursor: pointer;
 }
 
 .work__pill:hover{
